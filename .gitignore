@@ -54,3 +54,6 @@ tmp/
 
 # Claude Code local files
 .claude/
+
+# Local icon generator
+/scripts/generate-icons.swift
